@@ -19,11 +19,10 @@ I am a Data Science undergraduate student in my first year at UFPB, passionate a
   <a href="https://github.com/brunabm24">
     <img src="https://img.shields.io/badge/GitHub-BRUNABM24-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/bruna-brito-marcondes-2a06b241b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://img.shields.io/badge/LinkedIn-@Brunabritomarcondes--0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/bruna-marcondes07/">
+    <img src="https://img.shields.io/badge/LinkedIn-@BrunaBritoMarcondes--0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
 
 
 ---
