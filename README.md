@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Bruna Marcondes
+# 👩🏻‍💻 Hi, I'm Bruna Marcondes 
 
-**`Analista de Dados`**
+**`Aspiring Data Scientist | Data Science Student`**
 
-Me chamo Bruna Brito Marcondes, tenho 18 anos e sou natural de João Pessoa na Paraíba. Concluí o ensino médio no Colégio Motiva em 2025. Atualmente, estou cursando Ciência de Dados para Negócios na UFPB. 
+I am a Data Science undergraduate student in my first year at UFPB, passionate about data analysis, statistics, and technology. Currently developing my foundational skills in Python and SQL to solve real-world problems.
+
+
 
 <p align="left">
       <a href="https://github.com/brunabm24?tab=followers">
@@ -10,9 +12,23 @@ Me chamo Bruna Brito Marcondes, tenho 18 anos e sou natural de João Pessoa na P
    </p>
 
 
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/brunabm24">
+    <img src="https://img.shields.io/badge/GitHub-BRUNABM24-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bruna-brito-marcondes-2a06b241b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-@Brunabritomarcondes--0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technical Skills
 
 
 <img 
@@ -23,3 +39,16 @@ Me chamo Bruna Brito Marcondes, tenho 18 anos e sou natural de João Pessoa na P
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+</br>
+</br>
+
+---
+
+
+
+
+</br>
+⭐ If you like my work, consider starring a repository  
+
+🤝 Always open to collaborations, partnerships, and cool ideas
