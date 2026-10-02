@@ -2,7 +2,7 @@
 
 **`Aspiring Data Scientist | Data Science Student`**
 
-I am a Data Science undergraduate student in my first year at UFPB, passionate about data analysis, statistics, and technology. Currently developing my foundational skills in Python and SQL to solve real-world problems.
+I am a Data Science undergraduate student at UFPB, passionate about data analysis, statistics, and technology. Currently developing my foundational skills in Python and SQL to solve real-world problems.
 
 
 
